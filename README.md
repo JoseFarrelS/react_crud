@@ -1,1 +1,2 @@
-# React + Vite = Muhammad Syahrizal Hidayat
+# React + Vite = Jose Farrel Samgar
+
